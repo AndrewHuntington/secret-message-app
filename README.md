@@ -1,5 +1,7 @@
 # Secret-Message Sharing App
 
+An app to create and share secret messages!
+
 ## [Try the Live App Here!](https://andrewhuntington.github.io/secret-message-app/)
 
 ### How to Use:
@@ -8,7 +10,7 @@
 - Click the CREATE button
 - Copy and share the provided URL
 
-### Technology Used:
+### Technologies Used:
 
 - JavaScript
 - [Materialize](https://materializecss.com/) (For styling)
